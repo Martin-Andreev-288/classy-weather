@@ -27,3 +27,9 @@ npm start
 <img src="./src/assets/classyWeather1.png"/>
 
 <img src="./src/assets/classyWeather2.png"/>
+
+## Project Tool Links
+
+- [GitHub Link](https://github.com/Martin-Andreev-288/classy-weather)
+- [Deploy Link](https://classy-weather-ten-delta.vercel.app/)
+- [Demo Video](https://youtu.be/RBdGPCbFjy4)
